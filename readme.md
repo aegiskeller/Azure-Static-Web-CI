@@ -1,4 +1,4 @@
-[![Azure Static Web Apps CI/CD](https://github.com/aegiskeller/az-webpage/actions/workflows/azure-static-web-apps-proud-rock-0994df110.yml/badge.svg)](https://github.com/aegiskeller/az-webpage/actions/workflows/azure-static-web-apps-proud-rock-0994df110.yml)
+[![Azure Static Web Apps CI/CD](https://github.com/aegiskeller/Azure-Static-Web-CI/actions/workflows/azure-static-web-apps-ashy-flower-040dfdf10.yml/badge.svg)](https://github.com/aegiskeller/Azure-Static-Web-CI/actions/workflows/azure-static-web-apps-ashy-flower-040dfdf10.yml)
 
 # Vanilla JavaScript App
 
